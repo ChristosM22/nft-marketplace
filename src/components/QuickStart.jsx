@@ -38,11 +38,11 @@ export default function QuickStart({ isServerInfo }) {
             <Text delete style={styles.text}>
               Clone or fork{" "}
               <a
-                href="https://github.com/ethereum-boilerplate/ethereum-boilerplate#-quick-start"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                ethereum-boilerplate
+                ethereum dapp
               </a>{" "}
             </Text>
           </Timeline.Item>
@@ -57,7 +57,7 @@ export default function QuickStart({ isServerInfo }) {
             <Text delete={isServerInfo} style={styles.text}>
               Sign up for a free account on{" "}
               <a
-                href="https://moralis.io?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=ethereum-boilerplate"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
               >
